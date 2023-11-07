@@ -3,7 +3,7 @@
 ##   Zphisher 	: 	Automated Phishing Tool
 ##   Author 	: 	ARK014526 
 ##   Version 	: 	2.3.5
-##   Github 	: 	https://github.com/htr-tech/zphisherx
+##   Github 	: 	https://github.com/htr-tech/zphisher.com
 
 
 ##                   GNU GENERAL PUBLIC LICENSE
